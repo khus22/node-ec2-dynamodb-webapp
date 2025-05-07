@@ -31,3 +31,8 @@ Before running the container, set the following environment variables (from IAM 
 - `AWS_ACCESS_KEY_ID` = your IAM access key
 - `AWS_SECRET_ACCESS_KEY` = your IAM secret key
 
+## 🔐 UI Screenshot
+
+![UI Screenshot](https://github.com/khus22/node-ec2-dynamodb-webapp/blob/main/UI_Screenshot.png)
+
+
