@@ -12,7 +12,7 @@
 3. **Pull the Docker image from Docker Hub**
      ```bash
      docker pull philippaul/node-dynamodb-demo
-        ```
+     ```
      
 4. **Run Docker Container**
    ```bash
