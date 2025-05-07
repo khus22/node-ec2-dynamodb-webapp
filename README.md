@@ -13,6 +13,12 @@ This project demonstrates how to deploy a pre-built Node.js web application (pul
 - **Docker Hub** – source of the Node.js application image
 
 ---
+## Project Structure
+
+node-ec2-dynamodb-webapp/
+├── README.md
+├── deploy-instructions.md
+
 
 ## 🗂️ DynamoDB Table Setup
 
